@@ -82,6 +82,17 @@
   
 
 
+***@hokkori_kyun***  
+2022.1.4 Twittterアカウント @korei_xlix に対し、未フォロー状態で複数回に渡っていいねを送った。  
+1度に3ツイートずついいねを受信した状況。  
+このアカウントはアフィリエイト系アカウントと思われる。  
+`
+処置：2022.1.4 Twitterに通報済  
+`
+  
+  
+
+
 ***
 ::Project= Web Operation Document  
 ::Admin= Korei (@korei-xlix)  
