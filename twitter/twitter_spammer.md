@@ -94,6 +94,7 @@
 ***@xinxiao76244924***  
 2022.1.6 Twittterアカウント @korei_xlix に未フォロー状態でリスト登録した。  
 プロフィールに卑猥な内容が記載されている。  
+自家発電大好きなキモおじたんと推察。  
 `
 処置：2022.1.6 Twitterに通報済  
 `
@@ -103,8 +104,7 @@
 2022.1.6 Twittterアカウント @korei_xlix をフォロー。1.4にフォロー→リムーブしてきたが、1.6に確認したところ再度フォローつけてきてた。  
 フォロワー稼ぎか、Youtubeチャンネルの登録者稼ぎと思われるが、チャンネルには動画が登録されていなかった。なおインスタもタイトル画像しか収まっていなかった。  
 単なる登録者増やしではなく、別の収集目的で使われている可能性もあるので注意されたい。  
-[Youtube](https://www.youtube.com/channel/UCsZa2xe_CRMpfMUclosQecg/videos)  
-[インスタ](https://www.instagram.com/kaidankitan/)
+YoutubeはTTwitterのアカウント、インスタはYoutubeチャンネルの概要欄から辿れる。
 
 `
 処置：未処置  
