@@ -125,6 +125,8 @@ ARKについて困ってたのでリプライを送ったが、それでもで�
 
 
 ***
+[トップへ戻る](/readme.md)  
+  
 ::Project= Web Operation Document  
 ::Admin= Korei (@korei-xlix)  
 ::github= https://github.com/korei-xlix/  
