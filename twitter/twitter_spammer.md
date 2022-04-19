@@ -23,6 +23,15 @@
 `
   
 
+***@wixecommerce***  
+***@wixdevs***  
+2022.4.19 Twittterアカウント @korei_xlix、@korei_dev をフォローしてきたが、Wixとの関連性はなく、@WixJp のなりすましと思われる。  
+`
+処置：通報済み  
+`
+  
+
+
 
 # その他のアカウント  
 
